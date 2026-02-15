@@ -40,7 +40,6 @@ Run a SQL file in MySQL:
 
 SOURCE path/to/file.sql;
 
-
 ## Author
 
 **RISHIKESH BHARAT GAWALI**
