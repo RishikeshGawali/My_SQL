@@ -32,7 +32,8 @@ This repository contains MySQL programs and scripts used for database creation, 
 1. The repository contains MySQL script files (`.sql`).
 2. Each file includes SQL commands executed sequentially.
 3. Users can run scripts to create or modify databases and tables.
-4. Queries can be executed individually or as a complete script.
+4. 
+5. Queries can be executed individually or as a complete script.
 
 ## Example
 
