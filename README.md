@@ -1,3 +1,4 @@
+
 # My_SQL
 
 This repository contains MySQL programs and scripts used for database creation, data manipulation, and querying. The files include SQL commands for creating databases, tables, inserting data, and performing various SQL operations, intended for learning, practice, and academic use.
